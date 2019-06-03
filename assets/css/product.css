@@ -1,0 +1,31 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    transition: 0.5s;
+    width: 30%;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    color: fuchsia;
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+    max-height:189px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    text-align: center;
+  }
+  .actions{
+    box-align: center;
+  }
+  .actions:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    color: fuchsia;
+  }
+
+
